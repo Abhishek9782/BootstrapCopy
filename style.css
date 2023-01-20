@@ -1,0 +1,20 @@
+#navbar ul li .home1 {margin-left: 60px;}
+#navbar ul li a {color: white;  }
+#navbar img{width: 50px;
+             height: 0px;}
+#banner1 .container #b1{font-size: 60px; font-weight: bolder; margin-top: 40px;}
+#banner1 .container #b2{font-family: 'Open Sans', sans-serif;font-size: 25px;}
+
+#banner1 .container .button1{margin-left: 20px;font-size: 20px;padding-left: 40px; padding-right: 40px; padding-top: 15px;padding-bottom: 15px;  margin-top: 20px;     }
+#banner1 .container .button2{font-size: 20px;padding-left: 50px; padding-right: 45px; padding-top: 15px;padding-bottom: 15px;
+                             margin-left: 20px; margin-top: 20px;
+                            transition: all 0.5s linear;}
+ #banner1 .container .button2:hover{
+background-color: black;
+color: white;
+ }
+ #banner1 .container .banner.b{width: 100px;height: 100px; background-color: black;}
+ #banner2 .container .p1{font-size: 20px;}
+
+
+
